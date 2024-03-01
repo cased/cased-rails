@@ -18,3 +18,5 @@ gemspec
 # gem 'byebug', group: [:development, :test]
 
 gem 'simplecov', '0.21.2', require: false
+
+gem "cased-ruby", github: "wrapbook/cased-ruby", ref: "7e4a420"
